@@ -1,0 +1,665 @@
+VBCSCompilerPreWarmer: watching VBCSCompiler (PID 32352)
+VBCSCompilerPreWarmer: pre-warm launched (dotnet PID 18804)
+VBCSCompiler prewarm took 26.33 ms
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.6/respin/6000.6.8f1-b6138bef9630' branch; Version is '6000.6.8f1 (237b6593792b) revision 2325349'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ANUAR" at "2026-11-20T15:04:38.9368468Z"
+OS: 'Windows 11  (10.0.26200) Professional' Language: 'es' Physical Memory: 32394 MB
+BatchMode: 0, IsHumanControllingUs: 1, StartBugReporterOnCrash: 1, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-11-20T15:04:38Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Unity.exe
+-projectpath
+C:\Users\ANUAR\primera_sala
+-acceptSoftwareTermsForThisRunOnly
+-useHub
+-hubIPC
+-cloudEnvironment
+production
+-licensingIpc
+LicenseClient-ANUAR
+-hubSessionId
+6c6da0a8-e343-42ef-be85-3d9a137fc24e
+-accessToken
+odLiBZotdrHH3ULSp7ejGRjqKLMCYkX0wBStQf0scfc001f
+Successfully changed project path to: C:\Users\ANUAR\primera_sala
+C:/Users/ANUAR/primera_sala
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-remapper-allocator-initial-capacity=32768"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-main-allocator-mimalloc-enabled=1"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [30884]  Target information:
+
+Player connection [30884]  * "[IP] 10.227.81.157 [Port] 55504 [Flags] 2 [Guid] 343576889 [EditorId] 343576889 [Version] 1048832 [Id] WindowsEditor(7,ANUAR-LAPTOP) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [30884] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [30884] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 13528, path: "C:/Program Files/WindowsApps/UnityTechnologies.UnityHub_4.0.1.65535_x64__2vrhnee42bhxm/app/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.19.0+4cc3dda
+  Session Id:              72018aa0189a4575ac3967e435461d3d
+  Correlation Id:          5506d55f380175a724924a0350a685de
+  External correlation Id: 2416772602272620731
+  Machine Id:              5Td9SvITNyABWqPX0qDcztrWkig=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ANUAR" (connect: 0.00s, validation: 0.00s, handshake: 0.09s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ANUAR-notifications" at "2026-11-20T15:04:39.0351197Z"
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated the access token odLiBZotdr...
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 1374431019584-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+[Licensing::Client] Successfully updated license, isAsync: True, time: 0.00
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] Licensing Background thread has ended after 0.11s
+[Package Manager] Connected to IPC stream "Upm-17828" after 0.2 seconds.
+[Licensing::Client] Successfully resolved entitlement details
+Library Redirect Path: Library/
+Initialising UDS system complete:
+  - System type: Client
+  - Resource namespace: 5d7840051a4401c3a9460ba40cee4675
+  - Shared memory size: 1073741824
+  - Command buffer id: 1052576
+  - Command buffer size: 8192
+  - Hashmap size: 4194304
+  - Service connected: false
+Launching Unity Data Store - C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/Tools/Unity.DataStore.exe 
+Unity Data Store artifact dir = Library/DataStore, working dir = C:/Users/ANUAR/primera_salaUnity Data Store running and initialised
+[Physics::Module] Selected backend (deferred post-plugins).
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.6.8f1 (237b6593792b)
+[EntityIdStore] init: VM path (explicit commit), pageSize=4096, blockCount=262144, entitiesPerBlock=1024, blocksPerSlotPage=0, slots reserved=4294967296 bytes
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ANUAR/primera_sala/Assets
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 5070 Laptop GPU (ID=0x2d18)
+    Vendor:   NVIDIA
+    VRAM:     7891 MB
+    Driver:   32.0.15.9219
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/BCLExtensions/runtime/netstandard2.1'
+Mono path[2] = 'C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56828
+CodeReloadManager initialized
+ImportWorker Server TCP listen port: 0
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001777 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  0.673 seconds
+Domain Reload Profiling: 1158ms
+	BeginReloadAssembly (125ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (4ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (284ms)
+		LoadAssemblies (101ms)
+		TypeCache.Refresh (184ms)
+			TypeCache.ScanAssembly (172ms)
+		AnalyzeDomain (0ms)
+	FinalizeReload (675ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (106ms)
+			ProcessInitializeOnLoadMethodAttributes (260ms)
+[Licensing::Client] Successfully resolved entitlement details
+Application.AssetDatabase Initial Refresh Start
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Registered 78 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.ai.assistant@2.22.0-pre.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ai.assistant@b2c71963ca57)
+    com.unity.ai.inference@2.6.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ai.inference@9a123aee5df7)
+    com.unity.cloud.gltfast@6.21.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.cloud.gltfast@15da4aaf9675)
+    com.unity.ide.rider@3.1.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ide.rider@570989d4a882)
+    com.unity.ide.visualstudio@2.0.26 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ide.visualstudio@a99d56dec63f)
+    com.unity.inputsystem@1.20.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.inputsystem@2436e68c60c4)
+    com.unity.learn.iet-framework@6.0.7 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.learn.iet-framework@96330db47073)
+    com.unity.xr.androidxr-openxr@1.4.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.androidxr-openxr@793ce1cdf6ce)
+    com.unity.xr.arfoundation@6.6.2 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.arfoundation@d57b0b4d336a)
+    com.unity.xr.compositionlayers@2.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.compositionlayers@4101f28daab7)
+    com.unity.xr.core-utils@2.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.core-utils@a8b900321199)
+    com.unity.xr.hands@1.9.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.hands@aec06f9cdb0b)
+    com.unity.xr.interaction.toolkit@3.6.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.interaction.toolkit@530ce2e6c59e)
+    com.unity.xr.management@4.7.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.management@2ad85c7dd480)
+    com.unity.xr.meta-openxr@2.6.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.meta-openxr@20c9b19f5e28)
+    com.unity.xr.openxr@1.18.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be)
+    com.unity.xr.legacyinputhelpers@3.0.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.legacyinputhelpers@3f62d634f63b)
+    com.unity.settings-manager@2.1.1 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.settings-manager@0b8638c5ce86)
+    com.unity.performance.profile-analyzer@1.4.2 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.performance.profile-analyzer@5491650411cd)
+    com.unity.testtools.codecoverage@1.3.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.testtools.codecoverage@19a841221620)
+    com.unity.dt.app-ui@2.2.4 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.dt.app-ui@8606a9847e5b)
+    com.unity.nuget.newtonsoft-json@3.2.2 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.nuget.newtonsoft-json@4dfd81071c64)
+    com.unity.nuget.mono-cecil@1.11.6 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.nuget.mono-cecil@ecb9724e46ff)
+    com.unity.searcher@4.9.5 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.searcher@a463122f2c00)
+    com.unity.profiling.core@1.0.3 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.profiling.core@8a49f7027d06)
+  Built-in packages:
+    com.unity.feature.development@1.0.2 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.feature.development@767aadbc6eb7)
+    com.unity.render-pipelines.universal@17.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.render-pipelines.universal@66a8e36658da)
+    com.unity.modules.accessibility@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.accessibility)
+    com.unity.modules.adaptiveperformance@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.adaptiveperformance)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.ai)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.androidjni)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.animation)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.assetbundle)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.audio)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.cloth)
+    com.unity.modules.director@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.director)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.imageconversion)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.imgui)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.jsonserialize)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.particlesystem)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.physics)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.physics2d)
+    com.unity.modules.physicscore2d@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.physicscore2d)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.screencapture)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.terrain)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.terrainphysics)
+    com.unity.modules.tetgen@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.tetgen)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.tilemap)
+    com.unity.modules.timelinefoundation@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.timelinefoundation)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.ui)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.uielements)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.umbra)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unityanalytics)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unitywebrequest)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unitywebrequestaudio)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unitywebrequesttexture)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.unitywebrequestwww)
+    com.unity.modules.vectorgraphics@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.vectorgraphics)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.vehicles)
+    com.unity.modules.video@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.video)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.wind)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.xr)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.subsystems)
+    com.unity.modules.hierarchycore@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.modules.hierarchycore)
+    com.unity.ugui@2.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ugui@fd16ebf174c6)
+    com.unity.mathematics@1.4.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.mathematics@8306a64d0cd6)
+    com.unity.collections@6.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.collections@4920e8897b5a)
+    com.unity.editorcoroutines@6.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.editorcoroutines@8cd72baa102a)
+    com.unity.render-pipelines.core@17.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.render-pipelines.core@74b1c5924895)
+    com.unity.shadergraph@17.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.shadergraph@807b608040c3)
+    com.unity.render-pipelines.universal-config@17.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.render-pipelines.universal-config@561422b74439)
+    com.unity.test-framework@1.8.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.test-framework@ee3fe9477490)
+    com.unity.burst@2.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.burst@626e66ab421b)
+    com.unity.2d.sprite@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.2d.sprite@752945c75a6f)
+    com.unity.test-framework.performance@6.6.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.test-framework.performance@e8b39e3ef3d9)
+    com.unity.graph-authoring@1.0.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.graph-authoring@cfd2588851ee)
+    com.unity.ext.nunit@2.1.0 (location: C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.ext.nunit@0198eae3b53e)
+[Subsystems] Looking for new subsystems at path C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.arfoundation@d57b0b4d336a
+[Subsystems] Novel subsystem found at Library/PackageCache/com.unity.xr.arfoundation@d57b0b4d336a/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.6.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ANUAR/primera_sala/Assets
+[Subsystems] Discovering subsystems at path C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.arfoundation@d57b0b4d336a
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.arfoundation@d57b0b4d336a/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@d57b0b4d336a/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.arfoundation@d57b0b4d336a/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.arfoundation@d57b0b4d336a/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.meta-openxr@20c9b19f5e28
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.meta-openxr@20c9b19f5e28/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  inputs in Library/PackageCache/com.unity.xr.meta-openxr@20c9b19f5e28/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] No descriptors matched for  displays in Library/PackageCache/com.unity.xr.meta-openxr@20c9b19f5e28/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'meshings' descriptors matched in Library/PackageCache/com.unity.xr.meta-openxr@20c9b19f5e28/Runtime/UnitySubsystemsManifest.json
+[Subsystems] Discovering subsystems at path C:\Users\ANUAR\primera_sala\Library\PackageCache\com.unity.xr.openxr@b5b77b4027be
+[Subsystems] No descriptors matched for  examples in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Subsystems] 1 'inputs' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] 1 'displays' descriptors matched in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json
+[Subsystems] No descriptors matched for  meshings in Library/PackageCache/com.unity.xr.openxr@b5b77b4027be/Runtime/UnitySubsystemsManifest.json.
+[Package Manager] Done registering packages in 0.08 seconds
+Starting: C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\Tools\BuildPipeline\bee_backend.exe --ipc --defer-dag-verification --dagfile="Library/Bee/1900b0aE.dag" --continue-on-failure --profile="Library/Bee/backend1.traceevents" ScriptAssemblies
+WorkingDir: C:/Users/ANUAR/primera_sala
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.runtime.interopservices.windowsruntime has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\Facades\System.Runtime.InteropServices.WindowsRuntime.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\NetStandard\Extensions\2.0.0\System.Runtime.InteropServices.WindowsRuntime.dll"
+warn: Unity.ILPP.Runner.PostProcessingAssemblyLoadContext[0]
+      Assembly system.componentmodel.composition has duplicate hint path. Ignoring "C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\System.ComponentModel.Composition.dll" in favor of "C:\Program Files\Unity\Hub\Editor\6000.6.8f1\Editor\Data\NetStandard\compat\2.1.0\shims\netfx\System.ComponentModel.Composition.dll"
+ExitCode: 0 Duration: 0s530ms
+[1630/2177  0s] ILPP-Configuration Library/ilpp-configuration.nevergeneratedoutput
+*** Tundra build success (0.49 seconds), 1 items updated, 2177 evaluated
+AssetDatabase: script compilation time: 1.119586s
+Begin MonoManager ReloadAssembly
+Total cache size 168371136
+Total cache size after purge 168371136, took 00:00:00.2152682
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 6.38 ms, found 12 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 6.09 ms, found 12 plugins.
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  2.260 seconds
+Domain Reload Profiling: 3390ms
+	BeginReloadAssembly (208ms)
+		DisableScriptedObjects (25ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (8ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (821ms)
+		LoadAssemblies (367ms)
+		TypeCache.Refresh (284ms)
+			TypeCache.ScanAssembly (265ms)
+		AnalyzeDomain (93ms)
+			BuildScriptInfoCaches (83ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (2262ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (132ms)
+			ProcessInitializeOnLoadAttributes (1407ms)
+			ProcessInitializeOnLoadMethodAttributes (332ms)
+			AfterProcessingInitializeOnLoad (8ms)
+		AwakeInstancesAfterBackupRestoration (32ms)
+Starting new worker id: 0 with log in C:/Users/ANUAR/primera_sala/Logs/AssetImportWorkerHW0.log
+
+Asset Pipeline Refresh (id=566f74c5d6f6eee45a629e0206a10fd5): Total: 5.615 seconds - Initiated by InitialRefreshV2(ForceSynchronousImport)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3038 ms
+		Asset DB Callback time: managed=80 ms, native=83 ms
+		Scripting: domain reloads=1, domain reload time=1198 ms, compile time=1121 ms, other=92 ms
+		Project Asset Count: scripts=2621, non-scripts=5751
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 85.412ms
+	ApplyChangesToAssetFolders: 0.760ms
+	Scan: 170.936ms
+	Collect global state as custom dependencies: 19.304ms
+	CategorizeScriptCompilationAssets: 47.473ms
+	ProcessAssetsWithTransientArtifactChanges: 94.343ms
+	CategorizeAssets: 176.851ms
+	CompileScripts: 1121.344ms
+	ImportOutOfDateAssets: 2311.845ms (2284.917ms without children)
+		ReloadNativeAssets: 0.052ms
+		UnloadImportedAssets: 1.854ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.643ms
+		ImportSchedulerStart: 23.371ms
+	PostProcessAllAssets: 80.900ms
+		MonoPostProcessAllAssets: 80.825ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 29.588ms
+			SyncVS.PostprocessSyncProject 15.409ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 3.621ms
+			GraphRefreshPostprocessor.OnPostprocessAllAssets 3.416ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 2.795ms
+			AssetChangeDetector.OnPostprocessAllAssets 2.558ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 1.797ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 1.573ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 1.227ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.641ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 0.573ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.437ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.363ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.322ms
+	UnloadStreamsBegin: 2.127ms
+	PersistCurrentRevisions: 0.333ms
+	GenerateScriptTypeHashes: 11.151ms
+	GenerateScriptTypeSerializationHashes: 18.086ms
+	Untracked: 1481.225ms
+
+Application.AssetDatabase Initial Refresh End
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Scanning for USB devices : 1.674ms
+Initializing Unity extensions:
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-primera_sala
+Unloading 96 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            87.862 ms
+	Integration:            363.731 ms
+	Integration of assets:  3.048 ms
+	Thread Wait Time:       0.183 ms
+	Total Operation Time:   454.824 ms
+Unloading 10414 unused Assets / (27.2 MB). Loaded Objects now: 16581.
+Memory consumption went from 0.65 GB to 0.62 GB.
+Total: 31.982000 ms (FindLiveObjects: 1.218600 ms CreateObjectMapping: 0.916500 ms MarkObjects: 24.299200 ms  DeleteObjects: 5.184600 ms)
+
+[LAYOUT] About to load UserSettings\Layouts\default-6000.dwlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\ANUAR\primera_sala\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/ANUAR/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[MODES] ModeService[default].InitializeCurrentMode
+[MODES] ModeService[default].RaiseModeChanged(default, default)
+<RI> Initializing input.
+Using Windows.Gaming.Input
+[Project] Loading completed in 12.820 seconds
+	Project init time: 				10.149 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.205 seconds
+		Asset Database init time: 		1.443 seconds
+		Global illumination init time: 	0.002 seconds
+		Assemblies load time: 			1.194 seconds
+		Unity extensions init time: 	0.079 seconds
+		Asset Database refresh time: 	5.615 seconds
+	Scene opening time: 			1.561 seconds
+##utp:{"type":"ProjectInfo","version":2,"phase":"Immediate","time":1795187090745,"processId":17828,"projectLoad":12.8204563,"projectInit":10.1493514,"templateInit":0.0,"packageManagerInit":0.2053648,"assetDatabaseInit":1.4431813,"globalIlluminationInit":0.0019575,"assembliesLoad":1.1936818,"unityExtensionsInit":0.079221,"assetDatabaseRefresh":5.6153997,"sceneOpening":1.5607965}
+##utp:{"type":"EditorInfo","version":2,"phase":"Immediate","time":1795187090745,"processId":17828,"editorVersion":"6000.6.8f1 (237b6593792b)","branch":"6000.6/respin/6000.6.8f1-b6138bef9630","buildType":"Release","platform":"Windows"}
+Asset Pipeline Refresh (id=11713c3d1c8624e428cef038c4f769e7): Total: 0.131 seconds - Initiated by RefreshV2(AllowForceSynchronousImport)
+Importing 'GUID: 0000000000000000b000000000000000 - Path: ProjectSettings/EditorBuildSettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 0000000000000000b000000000000000' -> (Import Result ID: '8cdcd339fbbe734b09cba8c1b8b8b564') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=0a89a5c5f492143e0fa186859e17ba6f DependenciesID=f5c4ef85eb676cb43c6ae3651ba183d2 StaticDependenciesID=145130416f5264cc1e163c388604b5b2 
+Worker ready: AssetImportWorkerHW0 0
+Refreshing native plugins compatible for Editor in 6.50 ms, found 12 plugins.
+Asset Pipeline Refresh (id=90f00eee19d19054c9fbc662dfd434cb): Total: 0.280 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[INFO ] [relay] relay.startup port=9001 mcpClientPort=9002 editorPid=17828
+[INFO ] [relay] log === RELAY SERVER STARTED === (unity-ai-relay v1.0.12-build.100)
+[INFO ] [relay] log TLS trust: NODE_USE_SYSTEM_CA=on systemCAs=85 bundledCAs=118
+[INFO ] [relay] log Starting relay server...
+[INFO ] [relay] log Command line arguments: ["bun","B:/~BUN/root/relay_win.exe","--relay","--port","9001","--mcp-client-port","9002","--editor-pid","17828","--shutdown-delay","180","--log-dir","C:\\Users\\ANUAR\\primera_sala\\Logs"]
+[INFO ] [relay] log Parsed config: {"port":9001,"mcpClientPort":9002,"editorPid":"17828","shutdownDelaySeconds":180}
+[INFO ] [relay] log Initializing relay components...
+[INFO ] [relay] log Creating RelayEditor...
+[INFO ] [relay] log WebSocket server started
+[INFO ] [relay] log Relay server initialization completed
+[INFO ] [relay] log MCP Client initialized at port: 9002
+[WARN ] [relay] log [shell-env] Shell environment did not contain a PATH variable
+[INFO ] [relay] log Unity MCP Relay server started | Port: 9002 | Endpoints: /mcp/start-server, /mcp/stop-server, /mcp/server-status, /mcp/call-tool
+[INFO ] [relay] log Unity client connected with ID: editor-17828-wnu4j5 (relay 1.0.12-build.100)
+[INFO ] [relay] connection.established clientId=editor-17828-wnu4j5 port=9001
+[Licensing::Client] Successfully resolved entitlement details
+Start Indexing on Editor startup
+[Indexing] Starting Initial Indexing for Assets
+[Licensing::Client] Successfully resolved entitlement details
+Reloading assemblies due to reload request.
+Reloading assemblies after forced synchronous recompile.
+Begin MonoManager ReloadAssembly
+[INFO ] [relay] log Domain reload signal received from client editor-17828-wnu4j5
+[INFO ] [relay] log Client disconnected - blocking and caching for recovery
+[WARN ] [relay] connection.lost clientId=null
+[WARN ] [relay] log Client disconnected - sessions will persist until auto-shutdown, reason: Client disconnected
+[INFO ] [relay] log Auto-shutdown timer started due to client disconnection
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+Refreshing native plugins compatible for Editor in 6.35 ms, found 12 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+Refreshing native plugins compatible for Editor in 8.68 ms, found 12 plugins.
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+ScheduleIndexationOnStartup MainProcess:True IndexOnStartup:True
+Scripting: successfully reloaded assembly
+- Finished resetting the current domain, in  3.172 seconds
+Domain Reload Profiling: 4185ms
+	BeginReloadAssembly (657ms)
+		DisableScriptedObjects (136ms)
+		CreateAndSetChildDomain (181ms)
+	RebuildCommonClasses (9ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (82ms)
+	LoadAllAssembliesAndSetupDomain (251ms)
+		LoadAssemblies (146ms)
+		TypeCache.Refresh (9ms)
+		AnalyzeDomain (13ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (3173ms)
+		SetupLoadedEditorAssemblies (0ms)
+			BeforeProcessingInitializeOnLoad (254ms)
+			ProcessInitializeOnLoadAttributes (1432ms)
+			ProcessInitializeOnLoadMethodAttributes (374ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (573ms)
+No restricted APIs configured; Validation skipped.
+Checking 23 assemblies for restricted APIs found 0 usage(s) in 3 ms
+Refreshing native plugins compatible for Editor in 6.39 ms, found 12 plugins.
+
+Asset Pipeline Refresh (id=0017d2e64e89c3342b4b465a11a8d5af): Total: 6.348 seconds - Initiated by StopAssetImportingV2(ForceSynchronousImport | ForceDomainReload)
+	(Values over 0.05ms)
+	Summary:
+		Imports: total=0 (actual=0, local cache=0, cache server=0)
+		Asset DB Process Time: managed=0 ms, native=3589 ms
+		Asset DB Callback time: managed=1308 ms, native=374 ms
+		Scripting: domain reloads=1, domain reload time=1073 ms, compile time=1 ms, other=0 ms
+		Project Asset Count: scripts=2621, non-scripts=5751
+		Asset File Changes: new=0, changed=0, moved=0, deleted=0
+		Scan Filter Count: 0
+	InvokePackagesCallback: 1.384ms
+	ApplyChangesToAssetFolders: 0.247ms
+	Collect global state as custom dependencies: 2.845ms
+	ProcessAssetsWithTransientArtifactChanges: 241.451ms
+	CategorizeAssets: 99.268ms
+	CompileScripts: 1.003ms
+	ImportOutOfDateAssets: 3191.142ms (3185.419ms without children)
+		CollectScriptTypesHashes: 5.830ms
+		ReloadNativeAssets: 1.556ms
+		UnloadImportedAssets: 2.575ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 1.165ms
+		ImportSchedulerStart: 0.387ms
+	PostProcessAllAssets: 1666.957ms
+		AssemblyValidation.PostprocessAllAssets 42.447ms
+		PostProcessCallbackCreateDeferredMaterials 25.525ms
+		PostprocessAssetsUpdateCachedIcon 20.863ms
+		ComputeShaderImportPostprocess 13.709ms
+		ShaderAssetModifiedCallback 12.024ms
+		RaytracingShaderImportPostprocess 11.271ms
+		SpeedTreeImporter.PostprocessAllAssets 9.021ms
+		LocalizationDatabase.AssetDatabasePostprocessCallback 4.711ms
+		BlockShaderImporter.PostprocessAllAssets 4.176ms
+		XRBuildSystem.XRAssetImported 2.022ms
+		MonoPostProcessAllAssets: 1302.910ms
+			SyncVS.PostprocessSyncProject 322.810ms
+			ShaderGraphAssetPostProcessor.OnPostprocessAllAssets 210.111ms
+			AssetCallbacks.OnPostprocessAllAssets 84.380ms
+			AssetChangedListener.OnPostprocessAllAssets 47.887ms
+			PostProcessor.OnPostprocessAllAssets 42.027ms
+			GraphRefreshPostprocessor.OnPostprocessAllAssets 41.086ms
+			InputActionJsonNameModifierAssetProcessor.OnPostprocessAllAssets 40.708ms
+			InputActionAssetPostprocessor.OnPostprocessAllAssets 40.119ms
+			MaterialPostprocessor.OnPostprocessAllAssets 37.997ms
+			AssetReferenceReimportMonitor.OnPostprocessAllAssets 34.705ms
+			AssetPostprocessor.OnPostprocessAllAssets 34.013ms
+			TextAssetPostProcessor.OnPostprocessAllAssets 24.542ms
+			SpriteSlicePostprocessor.OnPostprocessAllAssets 23.546ms
+			UniversalRenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 13.535ms
+			SpeedTree9Postprocessor.OnPostprocessAllAssets 7.069ms
+			RenderPipelineGlobalSettingsPostprocessor.OnPostprocessAllAssets 5.360ms
+			BuilderAssetPostprocessor.OnPostprocessAllAssets 5.112ms
+			RetainedModeAssetPostprocessor.OnPostprocessAllAssets 1.672ms
+			WindowAssetPostprocessingWatcher.OnPostprocessAllAssets 1.494ms
+			SpriteEditorTexturePostprocessor.OnPostprocessAllAssets 0.952ms
+			AssetChangeDetector.OnPostprocessAllAssets 0.853ms
+			TMPro_TexturePostProcessor.OnPostprocessAllAssets 0.850ms
+			SkillsProjectAssetPostprocessor.OnPostprocessAllAssets 0.752ms
+			EditModeScopePostprocessor.OnPostprocessAllAssets 0.739ms
+			ShaderReflectionAssetPostProcessor.OnPostprocessAllAssets 0.640ms
+			ModelAssetProcessor.OnPostprocessAllAssets 0.580ms
+			StyleCatalogPostProcessor.OnPostprocessAllAssets 0.483ms
+			ProjectSettingsPostprocessor.OnPostprocessAllAssets 0.337ms
+			ArtifactBrowserPostProcessor.OnPostprocessAllAssets 0.333ms
+			SpeedTreePostProcessor.OnPostprocessAllAssets 0.294ms
+			ThemePostprocessor.OnPostprocessAllAssets 0.274ms
+			AudioMixerPostprocessor.OnPostprocessAllAssets 0.245ms
+			ReferencedClipsPostProcessor.OnPostprocessAllAssets 0.230ms
+			EnvironmentAssetPostprocessor.OnPostprocessAllAssets 0.203ms
+			AssetEvents.OnPostprocessAllAssets 0.203ms
+			TerrainToolbarOverlayPostProcessor.OnPostprocessAllAssets 0.144ms
+			AssetDatabaseCallbacks.OnPostprocessAllAssets 0.135ms
+			ScenarioDriftAssetsTracker.OnPostprocessAllAssets 0.094ms
+			ConfigAssetsTracker.OnPostprocessAllAssets 0.093ms
+			AudioContainerPostProcessor.OnPostprocessAllAssets 0.070ms
+			TrackSelectedAssetsProcessor.OnPostprocessAllAssets 0.066ms
+	PostAssetChangesProfiler: 16.394ms
+	GatherAllCurrentPrimaryImportResultRevisions: 0.348ms
+	UnloadStreamsBegin: 1.240ms
+	PersistCurrentRevisions: 0.280ms
+	GenerateScriptTypeHashes: 10.374ms
+	GenerateScriptTypeSerializationHashes: 14.884ms
+	Untracked: 1106.776ms
+
+Created GICache directory at C:/Users/ANUAR/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.017s, timestamps: [12.990 - 13.007]
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Opening scene 'Assets/Scenes/SampleScene.unity'
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/SampleScene.unity'
+	Deserialize:            12.082 ms
+	Integration:            93.561 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.057 ms
+	Total Operation Time:   105.702 ms
+Unloading 8758 unused Assets / (7.9 MB). Loaded Objects now: 18879.
+Memory consumption went from 0.86 GB to 0.85 GB.
+Total: 37.809600 ms (FindLiveObjects: 2.268200 ms CreateObjectMapping: 0.632600 ms MarkObjects: 25.141100 ms  DeleteObjects: 9.392700 ms)
+
+[LAYOUT] About to load Temp/TutorialLayout.wlt, keepMainWindow=False
+[LAYOUT] About to save layout C:\Users\ANUAR\primera_sala\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/ANUAR/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+Importing 'GUID: 0000000000000000b000000000000000 - Path: ProjectSettings/EditorBuildSettings.asset' with importer (LibraryAssetImporter)
+Imported 'GUID: 0000000000000000b000000000000000' -> (Import Result ID: '8cdcd339fbbe734b09cba8c1b8b8b564') in 0.004 seconds [static dependencies only]. Details - ImportResultOutputID=0a89a5c5f492143e0fa186859e17ba6f DependenciesID=f5c4ef85eb676cb43c6ae3651ba183d2 StaticDependenciesID=145130416f5264cc1e163c388604b5b2 
+Importing 'GUID: 4b3de149e50ea0c4f8ad04c79b9f12ec - Path: Assets/XR/XRGeneralSettingsPerBuildTarget.asset' with importer (NativeFormatImporter)
+Imported 'GUID: 4b3de149e50ea0c4f8ad04c79b9f12ec' -> (Import Result ID: 'fa9a7e435eb363e0b2b310b245fb5198') in 0.001 seconds [static dependencies only]. Details - ImportResultOutputID=057ee718f381ed2b69b516b31447137a DependenciesID=2fe30ad001a650c490369c6b1f71b2cc StaticDependenciesID=6e3c472d99cbc4e1731c97a6e1ef9e90 
+Refreshing native plugins compatible for Editor in 9.79 ms, found 12 plugins.
+Asset Pipeline Refresh (id=55566a67b7d725c4986d91ec3c6486e2): Total: 0.092 seconds - Initiated by StopAssetImportingV2(NoUpdateAssetOptions)
+[INFO ] [relay] log Unity client connected with ID: editor-17828-0g576i (relay 1.0.12-build.100)
+[INFO ] [relay] connection.established clientId=editor-17828-0g576i port=9001
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully updated the access token
+[Licensing::Module] Successfully updated access token: "odLiBZot"... (expires: 2026-11-20T16:35:46Z)
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Client] Successfully resolved entitlement details
+Account API did not become accessible within 30 seconds. This may be due to network issues or editor focus.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogWarning (object)
+Unity.AI.Toolkit.Accounts.Services.States.ApiAccessibleState/<WaitForCloudProjectSettings>d__4:MoveNext () (at ./Library/PackageCache/com.unity.ai.assistant@b2c71963ca57/Modules/Unity.AI.Toolkit.Accounts/Services/States/ApiAccessibleState.cs:46)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:InvokeMoveNext (object)
+System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+System.Runtime.CompilerServices.AsyncMethodBuilderCore/MoveNextRunner:Run ()
+System.Threading.Tasks.AwaitTaskContinuation:InvokeAction (object)
+System.Threading.Tasks.AwaitTaskContinuation:RunCallback (System.Threading.ContextCallback,object,System.Threading.Tasks.Task&)
+System.Threading.Tasks.SynchronizationContextAwaitTaskContinuation:Run (System.Threading.Tasks.Task,bool)
+System.Threading.Tasks.Task:FinishContinuations ()
+System.Threading.Tasks.Task:FinishStageThree ()
+System.Threading.Tasks.Task`1<bool>:TrySetResult (bool)
+System.Threading.Tasks.TaskCompletionSource`1<bool>:TrySetResult (bool)
+Unity.AI.Toolkit.EditorTask/<>c__DisplayClass22_0:<WaitForCondition>b__0 () (at ./Library/PackageCache/com.unity.ai.assistant@b2c71963ca57/Modules/Unity.AI.Toolkit.Async/EditorTask.cs:420)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: ./Library/PackageCache/com.unity.ai.assistant@b2c71963ca57/Modules/Unity.AI.Toolkit.Accounts/Services/States/ApiAccessibleState.cs Line: 46)
+
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+[Licensing::Client] Error: Code 404 while processing request (status: Found 0 entitlement groups and 0 free entitlements matching requested entitlement ids)
+MonoPathRemapper: Attempts to remap: 120512; Successful remaps: 37378
+Serialized file version minimum: 22, current 23
+[LAYOUT] About to save layout C:\Users\ANUAR\primera_sala\UserSettings\Layouts\default-6000.dwlt
+[LAYOUT] About to save layout C:/Users/ANUAR/AppData/Roaming/Unity/Editor-5.x/Preferences\Layouts\current\default-6000.dwlt
+[INFO ] [relay] log Shutdown request received from client editor-17828-0g576i
+[INFO ] [relay] log Unity client requested immediate shutdown - shutting down now, reason: Shutdown requested by client
+[INFO ] [relay] log Shutdown: Initiating graceful shutdown: Shutdown requested by client
+CORRECTO: el proceso con PID 32576 (proceso secundario de PID 26568)
+ha sido terminado.
+CORRECTO: el proceso con PID 26568 (proceso secundario de PID 17828)
+ha sido terminado.
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+'Packages/com.unity.render-pipelines.core/Editor/Deprecated.cs' contains partial class of Unity.Object, exactly 1 of the partial classes needs to be in a file with the same filename. This is to know the one that can be referenced from ie. GameObjects
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+[Licensing::IpcConnector] LicenseClient-ANUAR-notifications channel disconnected successfully.
+[Licensing::IpcConnector] LicenseClient-ANUAR channel disconnected successfully.
+Lingering sessions upon destruction of worker manager
+Unity Data Store service was successfully shut down
+UDS shutting down local client system
+Shut down UDS service system complete
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+CodeReloadManager destroyed
+abort_threads: Failed aborting id: 0000000000005A04, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 00000000000086A8, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 0000000000005A04, mono_thread_manage will ignore it
+
+abort_threads: Failed aborting id: 00000000000086A8, mono_thread_manage will ignore it
+
+debugger-agent: Unable to listen on 4292
+VBCSCompilerPreWarmer: requested VBCSCompiler shutdown
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server process was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1795187137531,"processId":17828,"allocatedMemory":22565926,"memoryLabels":[{"Default":233578},{"Permanent":15516},{"NewDelete":70273},{"Thread":4198064},{"Manager":825213},{"VertexData":8},{"Geometry":824},{"Shader":860561},{"Material":132},{"TextureCache":152},{"GfxDevice":55968},{"Animation":952},{"FreeType":8},{"FontEngine":736},{"Physics":1970},{"Physics2D":16},{"Serialization":49504},{"Input":45280},{"JobScheduler":256},{"TextLib":42747},{"Mono":48},{"MonoCode":768},{"ScriptingNativeRuntime":1667040},{"BaseObject":96976},{"Resource":1444},{"Renderer":2504},{"Transform":4781},{"File":34134},{"WebCam":616},{"Culling":32},{"Terrain":11442},{"Wind":24},{"STL":40},{"String":595741},{"StaticString":3808},{"Utility":2674994},{"Curl":48},{"PoolAlloc":3080},{"AI":80},{"TypeTree":17165},{"ScriptManager":18984},{"CodeReload":448},{"RuntimeInitializeOnLoadManager":64},{"Sprites":102},{"SpriteAtlas":120},{"GI":7816},{"Director":8296},{"CloudService":8448},{"WebRequest":11965},{"VR":50082},{"SceneManager":608},{"Video":208},{"LazyScriptCache":32},{"NativeArray":9768},{"Camera":729},{"Secure":265},{"SerializationCache":9256},{"APIUpdating":10320},{"VirtualTexturing":57888},{"StaticSafetyDebugInfo":278528},{"Analytics":592},{"Hierarchy":1188},{"UIElements":40},{"CoreStats":14456},{"Identifiers":7152},{"EntityIdStore":33088},{"Gui":271795},{"EditorUtility":698140},{"VersionControl":8},{"Undo":931},{"AssetDatabase":9574887},{"AssetImporter":40},{"EditorGi":328},{"UnityConnect":36918},{"Upm":1988},{"UpmDiagnostics":8},{"AssetCompliance":96},{"DrivenProperties":72},{"LocalIPC":211},{"ProfilerEditor":9746},{"CoreBusinessMetrics":3600},{"Windowing":456},{"Licensing":696},{"AssetReference":32},{"IPCStream":32}]}
